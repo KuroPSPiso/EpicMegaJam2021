@@ -18,14 +18,6 @@ Concepting:
 ### Main Goals
 - [x] Concepting
 - [x] Template
-- [ ] Sounds
-  - [ ] GamePlay
-    - [ ] Power Up
-    - [ ] Key press/mash
-    - [ ] struggling key noises
-    - [ ] GAME EXIT (pc/tv power off)
-    - [ ] GAME START
-    - [ ] Key seat (post start)
 - [ ] Main Menu
   - [ ] Start Game
   - [ ] High Score
@@ -52,6 +44,16 @@ Concepting:
 - [ ] Particles (/Shaders)
   - [ ] power lines on BG (in shader
   - [ ] explosion
+- [ ] Coding
+  - [ ] Highscore Local
+  - [ ] On SPACE-KEY DOWN increase float between 1f-0f
+  - [ ] At X power increase strenght (power bar) HOLD SPACE
+    - [ ] anime transition? (Pause game and run animation)
+  - [ ] Dynamically Animate Keyboard Key. Shape-keys?
+- [ ] Screens
+  - [ ] Main Menu + Game (transitions)
+  - [ ] Game Over
+  - [ ] Highscore
 
 ### Sub Goals
 - [ ] 2D Animations
@@ -62,6 +64,21 @@ Concepting:
     - [ ] SCRIPT
     - [ ] CTRL-L
     - [ ] CTRL-R
+- [ ] Sounds
+  - [ ] GamePlay
+    - [ ] Power Up
+    - [ ] Key press/mash
+    - [ ] struggling key noises
+    - [ ] GAME EXIT (pc/tv power off)
+    - [ ] GAME START
+    - [ ] Key seat (post start)
+- [ ] Music
+  - [ ] Main Menu
+  - [ ] Game
+  - [ ] Game High Risk
+  - [ ] Game Over
+- [ ] Coding
+  - [ ] Highscore Online
 
 ### Additional
 #### Colour palletes
